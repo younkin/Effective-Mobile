@@ -30,7 +30,6 @@
 		74732228294115B0008E7EB0 /* AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74732227294115B0008E7EB0 /* AppColors.swift */; };
 		7473222A294115E2008E7EB0 /* AppFonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74732229294115E2008E7EB0 /* AppFonts.swift */; };
 		7473222C294139C1008E7EB0 /* MainViewCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7473222B294139C1008E7EB0 /* MainViewCoordinator.swift */; };
-		84088C382947CA3300E06066 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84088C372947CA3300E06066 /* Assets.xcassets */; };
 		848A2029294366EC001317C4 /* RequestBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A2028294366EC001317C4 /* RequestBuilder.swift */; };
 		848A202B294369FC001317C4 /* BasketApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A202A294369FC001317C4 /* BasketApiClient.swift */; };
 		848A202E29438877001317C4 /* MainEntitie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848A202D29438877001317C4 /* MainEntitie.swift */; };
@@ -100,7 +99,6 @@
 		74732227294115B0008E7EB0 /* AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppColors.swift; sourceTree = "<group>"; };
 		74732229294115E2008E7EB0 /* AppFonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFonts.swift; sourceTree = "<group>"; };
 		7473222B294139C1008E7EB0 /* MainViewCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewCoordinator.swift; sourceTree = "<group>"; };
-		84088C372947CA3300E06066 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		848A2028294366EC001317C4 /* RequestBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestBuilder.swift; sourceTree = "<group>"; };
 		848A202A294369FC001317C4 /* BasketApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasketApiClient.swift; sourceTree = "<group>"; };
 		848A202D29438877001317C4 /* MainEntitie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainEntitie.swift; sourceTree = "<group>"; };
@@ -365,7 +363,6 @@
 				848A20452943AA1C001317C4 /* MarkPro-Heavy.ttf */,
 				848A20442943AA1C001317C4 /* MarkPro-Medium.ttf */,
 				848A20422943AA1C001317C4 /* MarkPro-Regular.ttf */,
-				84088C372947CA3300E06066 /* Assets.xcassets */,
 			);
 			path = Resourses;
 			sourceTree = "<group>";
@@ -523,7 +520,6 @@
 				848A20462943AA1C001317C4 /* MarkPro-Regular.ttf in Resources */,
 				848A20472943AA1C001317C4 /* MarkPro-Bold.ttf in Resources */,
 				848A20492943AA1C001317C4 /* MarkPro-Heavy.ttf in Resources */,
-				84088C382947CA3300E06066 /* Assets.xcassets in Resources */,
 				848A20482943AA1C001317C4 /* MarkPro-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
