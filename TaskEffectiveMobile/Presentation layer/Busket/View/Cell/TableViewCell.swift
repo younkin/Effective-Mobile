@@ -132,8 +132,8 @@ import SwiftUI
     }
 }
 
-struct BasketCellPreview: PreviewProvider {
-    static var previews: some View {
-        return BasketTableViewCell().preview
-    }
-}
+//struct BasketCellPreview: PreviewProvider {
+//    static var previews: some View {
+//        return BasketTableViewCell().preview
+//    }
+//}
